@@ -1,0 +1,12 @@
+config.php
+.user.ini
+error_log
+.github.zip
+~index~.php
+*.log
+*.zip
+*.sql
+*.tar.gz
+.DS_Store
+.idea/
+.vscode/
